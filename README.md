@@ -1,4 +1,5 @@
 # linux-system-monitoring-tool
+The program should accept several command line arguments:
 
 --system
         to indicate that only the system usage should be generated
