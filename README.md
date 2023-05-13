@@ -1,5 +1,6 @@
 # linux-system-monitoring-tool
 C program that will report different metrics of the utilization of a linux system as described below.
+
 The program should accept several command line arguments:
 
 --system
