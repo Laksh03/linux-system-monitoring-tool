@@ -4,7 +4,8 @@ C program that will report different metrics of the utilization of a linux syste
 The program should accept several command line arguments:
 
 --system
-        to indicate that only the system usage should be generated
+        
+	to indicate that only the system usage should be generated
 
 
 --user
